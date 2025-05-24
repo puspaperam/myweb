@@ -31,12 +31,12 @@
 	
 	<distributionManagement>
 		 <snapshotRepository>
-		    <id>nexusRepo</id>
+		    <id>upendra-snapshots</id>
 		    <url>http://192.168.124.129:8081/repository/upendra-snapshots/</url>
 		 </snapshotRepository>
 		
 		<repository>
-		    <id>nexusRepo</id>
+		    <id>upendra-releases</id>
 		    <url>http://192.168.124.129:8081/repository/upendra-releases/</url>
 		</repository>
   	</distributionManagement>
